@@ -1,0 +1,14 @@
+# WhatsApp Chat Sentiment Analysis - Python dependencies
+# Python 3.10+ recommended
+
+pandas
+torch
+transformers
+sentencepiece
+
+# Notebook
+jupyter
+ipykernel
+
+# Optional: only if you try the English-only VADER baseline from the early cells
+nltk
