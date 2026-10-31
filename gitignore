@@ -1,0 +1,14 @@
+# PRIVATE DATA - never commit chat exports or results
+group.txt
+*.txt
+!requirements.txt
+whatsapp_analysis_output/
+*.csv
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Hugging Face cache
+.cache/
